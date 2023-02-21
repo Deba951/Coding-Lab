@@ -1,5 +1,4 @@
 # Week 1 Question Set
-#======================
 
 ## CodingFor all programs take input from STDIN
 
